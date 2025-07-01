@@ -17,7 +17,7 @@ Analyzed job market trends using MySQL and the `jobs_2023` dataset
 Built an interactive dashboard using Power Query and Power Pivot  
 ✔️ Cleaned and modeled job data to create visuals like job trends, salary analysis, and skill demands  
 📂 Tools: Excel, Power Query, Power Pivot  
-[View Repository](https://github.com/Visal70/excel_dashboard)
+[View Repository](https://github.com/Visal70/Data_Jobs-_Excel_Dashboard)
 
 ### 📊 Power BI – Health & Accident Data
 Analyzed health and accident trends in Sri Lanka  
