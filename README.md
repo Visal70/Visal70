@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Visal Adithya
 
 🎓 Recent graduate | 📊 Aspiring Data Analyst  
-💻 Passionate about SQL, Excel Dashboards, Power BI, and Data Visualization
+💻 Passionate about Excel , Power BI , SQL , Python
 
 ---
 
@@ -29,7 +29,7 @@ Analyzed health and accident trends in Sri Lanka
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: SQL, Python (beginner), R (basic)
+- **Languages**: SQL, Python (basic)
 - **Tools**: Power BI, Excel, Power Query, Power Pivot
 - **Databases**: MySQL, SQLite
 - **Other**: GitHub, VS Code
