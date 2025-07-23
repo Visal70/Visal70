@@ -7,8 +7,18 @@ I enjoy exploring datasets, building dashboards, and solving real-world problems
 
 ---
 
+### 🎓 Education
+
+**Bachelor of Science (B.Sc.)**  
+*Industrial Statistics & Mathematical Finance*  
+**University of Colombo** , Faculty of Science
+📚 **Class**: Second Class Honours (Upper Division)  
+📊 **GPA**: 3.52  
+
+---
+
 ### 🚀 **About Me**
-- 🎓 **B.Sc. (Hons) in Statistics & Data Science** – University of Colombo (Faculty of Science)
+
 - 💻 Skilled in **SQL, Power BI, Python (Pandas, NumPy, Matplotlib), and Excel**
 - 📊 Interested in **Data Analytics, Business Intelligence, and Data Visualization**
 - 🌱 Currently improving my **portfolio projects** and sharpening my **data storytelling** skills
@@ -17,7 +27,7 @@ I enjoy exploring datasets, building dashboards, and solving real-world problems
 ---
 
 ### 🛠 **Tech & Tools**
-- **Languages:** SQL, Python (Pandas, NumPy, Matplotlib), R  
+- **Languages:** SQL, Python (Pandas, NumPy, Matplotlib) 
 - **BI Tools:** Power BI, Excel (Advanced)  
 - **Databases:** MySQL, SQLite  
 - **Other:** Git/GitHub, Data Cleaning, Dashboard Design  
