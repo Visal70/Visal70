@@ -1,6 +1,6 @@
 # Hi, I'm Visal 👋  
 
-**`Aspiring Data Analyst | SQL | Power BI | Python`**  
+**`Aspiring Data Analyst | Excel | SQL | Power BI | Python`**  
 
 I am a fresh graduate passionate about turning data into actionable insights.  
 I enjoy exploring datasets, building dashboards, and solving real-world problems through data analysis.  
