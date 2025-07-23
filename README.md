@@ -19,11 +19,7 @@ Built an interactive dashboard using Power Query and Power Pivot
 📂 Tools: Excel, Power Query, Power Pivot  
 [View Repository](https://github.com/Visal70/Data_Jobs-_Excel_Dashboard)
 
-### 📊 Power BI – Health & Accident Data
-Analyzed health and accident trends in Sri Lanka  
-📂 Tools: Power BI  
-📊 Used charts and filters to uncover regional patterns  
-[View Repository](https://github.com/Visal70/health_powerbi_dashboard)
+
 
 ---
 
