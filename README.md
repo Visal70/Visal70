@@ -12,6 +12,7 @@ I enjoy exploring datasets, building dashboards, and solving real-world problems
 **Bachelor of Science (B.Sc.)**  
 *Industrial Statistics & Mathematical Finance*  
 **University of Colombo** , Faculty of Science
+
 📚 **Class**: Second Class Honours (Upper Division)  
 📊 **GPA**: 3.52  
 
