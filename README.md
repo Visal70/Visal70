@@ -71,14 +71,9 @@ Analyzed survey data of university students on career preparedness and aspiratio
 
 ### 📫 **Let's Connect**
 
-
 [![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](https://www.linkedin.com/in/visal-adithya-526a312a0)
 [![Gmail](https://img.icons8.com/color/30/000000/gmail-new.png)](mailto:visaladithya75@gmail.com)
 
-
-
 ---
 
-### ⚡ **Fun Fact**
-> “Data is the new oil, but it's only valuable when you refine it into insights.”
 
