@@ -59,6 +59,7 @@ Analyzed survey data of university students on career preparedness and aspiratio
 ---
 
 ### 📫 **Let's Connect**
+
 [![LinkedIn](www.linkedin.com/in/visal-adithya-526a312a0)](www.linkedin.com/in/visal-adithya-526a312a0)  
 [![Gmail](https://img.shields.io/badge/Email-Visal%20Adithya-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
 
