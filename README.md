@@ -28,7 +28,7 @@ I enjoy exploring datasets, building dashboards, and solving real-world problems
 ---
 
 ### 🛠 **Tech & Tools**
-- **Languages:** SQL, Python (Pandas, NumPy, Matplotlib) 
+- **Languages:** SQL, Python (Pandas, Matplotlib, Seaborn) 
 - **BI Tools:** Power BI, Excel (Advanced)  
 - **Databases:** MySQL, SQLite  
 - **Other:** Git/GitHub, Data Cleaning, Dashboard Design  
@@ -57,7 +57,7 @@ Built an interactive dashboard using Power Query and Power Pivot
 Designed an interactive Power BI dashboard to visualize job market trends  
 ✔️ Includes top job titles, remote vs. on-site jobs, salary distribution, and skill demand  
 📂 **Tools:** Power BI, DAX, Power Query  
-[View Repository](#)
+[View Repository](https://github.com/Visal70/PowerBI-DataJobs-Dashboard)
 
 ---
 
@@ -65,7 +65,7 @@ Designed an interactive Power BI dashboard to visualize job market trends
 Analyzed survey data of university students on career preparedness and aspirations  
 ✔️ Explored relationships between **GPA** and **career readiness** using data visualizations  
 📂 **Tools:** Python (Pandas, Matplotlib, Seaborn)  
-[View Repository](#)
+[View Repository](https://github.com/Visal70/Career_Aspiraton_and_Preparedness)
 
 ---
 
